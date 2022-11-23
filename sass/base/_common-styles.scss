@@ -1,0 +1,44 @@
+:root {
+  --focus-hover-collor: #2196f3;
+  --icons-color: #afb1b8;
+  --icons-focus-collor: #ffffff;
+}
+body {
+  background-color: #fff;
+  color: #212121;
+  font-family: "Roboto", "Raleway", sans-serif;
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+.nav__list,
+.contacts-list,
+.benefits-list,
+.services-list,
+.team-list,
+.footer-list,
+.example-list,
+.filter-list,
+.address__list,
+.clients-list,
+.socials-list,
+.mobile-menu,
+.mobile-contacts,
+.mobile-socials {
+  list-style-type: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
