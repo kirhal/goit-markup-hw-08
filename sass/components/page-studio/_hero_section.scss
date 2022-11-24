@@ -13,7 +13,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/overlays/hero-overlay_480.jpg);
+    url("../images/overlays/hero-overlay_480.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -31,7 +31,7 @@
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/overlays/hero-overlay_960.jpg);
+      url("../images/overlays/hero-overlay_960.jpg");
   }
 
   @media screen and (min-width: 768px) {
@@ -43,7 +43,7 @@
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/overlays/hero-overlay_768.jpg);
+      url("../images/overlays/hero-overlay_768.jpg");
 
     @media screen and (min-device-pixel-ratio: 2),
       (-webkit-min-device-pixel-ratio: 2),
@@ -54,7 +54,7 @@
           rgba(47, 48, 58, 0.4),
           rgba(47, 48, 58, 0.4)
         ),
-        url(../images/overlays/hero-overlay_1536.jpg);
+        url("../images/overlays/hero-overlay_1536.jpg");
     }
   }
   @media screen and (min-width: 1200px) {
@@ -68,7 +68,7 @@
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/overlays/hero-overlay_1600.jpg);
+      url("../images/overlays/hero-overlay_1600.jpg");
 
     @media screen and (min-device-pixel-ratio: 2),
       (-webkit-min-device-pixel-ratio: 2),
@@ -79,7 +79,7 @@
           rgba(47, 48, 58, 0.4),
           rgba(47, 48, 58, 0.4)
         ),
-        url(../images/overlays/hero-overlay_3200.jpg);
+        url("../images/overlays/hero-overlay_3200.jpg");
     }
   }
 
