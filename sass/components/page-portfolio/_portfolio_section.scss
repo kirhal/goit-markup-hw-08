@@ -124,11 +124,6 @@
     @media screen and (min-width: 768px) and (max-width: 1199px) {
       width: 304px;
     }
-    @media screen and (min-width: 1200px) {
-      &--narrow {
-        letter-spacing: 0.045em;
-      }
-    }
   }
   &__type {
     font-size: 16px;
